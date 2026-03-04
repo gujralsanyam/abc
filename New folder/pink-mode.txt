@@ -1,1 +1,3 @@
 new file is created for pink-mode .
+
+added a new pink-mode.
